@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sh4d0wR000t
+- 👀 I’m interested in games
+- 🌱 I’m currently learning C#
